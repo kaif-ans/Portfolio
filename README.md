@@ -3,4 +3,3 @@ A portfolio is a compilation of academic and professional materials that exempli
 It provides insight into your personality and work ethic.
 
 
-
