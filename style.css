@@ -66,6 +66,8 @@ nav ul li a:hover {
 
 .btn:hover {
 	transform: scale(1.2);
+	background-color: transparent;
+	border: 2px solid #f9004d;
 }
 
 .content {
